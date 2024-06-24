@@ -1,0 +1,14 @@
+{
+  "name": "codeceptjslearning",
+  "version": "1.0.0",
+  "description": "CodeceptJS is a modern end-to-end testing framework for web applications. It is designed to make writing and executing tests simple and efficient by providing a high-level API that abstracts the complexities of browser interactions. CodeceptJS supports various testing backends, including WebDriver, Puppeteer, Playwright, and TestCafe, making it highly versatile and adaptable to different testing environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.6.4"
+  }
+}
