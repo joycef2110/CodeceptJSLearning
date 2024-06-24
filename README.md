@@ -12,11 +12,11 @@ CodeceptJS is an excellent choice for developers and testers seeking an efficien
 
 Create a new directory for the project and navigate into it
 
-mkdir myproject
-cd myproject
+mkdir codeceptJSLearning
+cd codeceptJSLearning
 
 initialize a new npm project
-npm init -y
+npm init 
 
 Install CodeceptJS and a backend like Puppete
 npm install codeceptjs puppeteer --save-dev
@@ -24,8 +24,6 @@ npm install codeceptjs puppeteer --save-dev
 Run the bootstrap command to set up CodeceptJS in your project
 npx codeceptjs init
 
-create a new test file
-npx codeceptjs gt
 
 Run the test using the following command:
-npx codeceptjs run --steps
+npx codeceptjs run
