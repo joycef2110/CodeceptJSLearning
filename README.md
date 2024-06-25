@@ -24,6 +24,7 @@ npm install codeceptjs puppeteer --save-dev
 Run the bootstrap command to set up CodeceptJS in your project
 npx codeceptjs init
 
-
 Run the test using the following command:
 npx codeceptjs run
+
+API: https://swapi.dev/api
